@@ -52,6 +52,10 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
+# Temporary art
+
+Content/ArtTemp/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
